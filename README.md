@@ -13,7 +13,7 @@ Entra ID.<br />
 attachments/assets/4c447cef-3001-4f61-9ffd-e24ca4af592d" /> 
 </p> 
 <p> 
-Audit Logs of user Chris Walker. 
+Audit Logs of user Denzel Washington. 
 </p> 
 <br /> 
 <p> 
@@ -21,6 +21,6 @@ Audit Logs of user Chris Walker.
 attachments/assets/b63402b9-c8c4-4115-92e7-9c9768dadc53" /> 
 </p> 
 <p> 
-Audit Logs of user Jordan Lee. 
+Audit Logs of user Daffy Duck. 
 </p> 
 <br /> 
